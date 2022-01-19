@@ -34,6 +34,8 @@
         echo "(\$x==10 and \$y==3) devolve ".$z."<br/>";
         $z=($x==10 or $y==5);
         echo "(\$x==10 or \$y==5) devolve ".$z."<br/>";
+
+        // Comentario dende outra máquina
         ?>
     </body>
 </html>
